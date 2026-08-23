@@ -1,3 +1,4 @@
+package Aulas;
 public class Endereco {
 
     String nl;

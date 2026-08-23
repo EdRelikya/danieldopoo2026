@@ -1,3 +1,4 @@
+package Aulas;
 public class Cliente {
 
     String nome;
