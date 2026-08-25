@@ -1,6 +1,6 @@
-package AulaEmcap;
+package AulaEncap;
 
-public class MainEmcap {
+public class MainEncap {
 
  public static void main(String[] args) {
 

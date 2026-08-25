@@ -1,4 +1,4 @@
-package AulaEmcap;
+package AulaEncap;
 
 public class Departamento {
     private int codigo;
