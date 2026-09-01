@@ -16,10 +16,6 @@ public class AppEncapsulamento {
         
 
 
-
-
-
-
         // TesteEncapsulamento t = new TesteEncapsulamento();
         // t.atrib1 = 2;
         // // t.atrib2 = 2;
