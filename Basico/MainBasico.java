@@ -1,6 +1,6 @@
 package Basico;
 
-public class Main {
+public class MainBasico {
     public static void main(String[] args) {
 
         Jogador j1 =  new  Jogador("Ed", 282321);

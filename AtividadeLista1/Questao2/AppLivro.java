@@ -1,6 +1,6 @@
 package AtividadeLista1.Questao2;
 
-public class Main {
+public class AppLivro {
 
     public static void main(String[] args) {
         

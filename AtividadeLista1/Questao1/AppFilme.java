@@ -1,6 +1,6 @@
 package AtividadeLista1.Questao1;
 
-public class Main {
+public class AppFilme {
     public static void main(String[] args) {
 
         Filme filme1 = new Filme("Interistelar", "Ficção Cientifica", 2014);
